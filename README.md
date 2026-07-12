@@ -1,5 +1,11 @@
 # 🍽️ AI-Powered Recipe Generator
 
+
+
+https://github.com/user-attachments/assets/ca0867b9-268b-4281-8937-cda9c3bcade4
+
+
+
 This project is a **web-based AI recipe generator** that uses a local Large Language Model (LLM) via **Ollama** to create structured cooking recipes from user input in real time.
 
 Built with **Flask**, it provides a simple interface where users can enter any dish idea and instantly receive a clean, step-by-step recipe.
